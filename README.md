@@ -28,7 +28,7 @@ Experienced Software Engineer specializing in blockchain and web3 development fo
 * Designed database architectures and managed overall system architecture.
 * Implemented CI/CD pipelines and handled DevOps tasks.
 
-### [Curra - Decentralized Crypto Processing Protocol](https://0xpay.app/) (2022 - Present)
+### [Curra - Decentralized Crypto Processing Protocol](https://curra.io/) (2022 - Present)
 **Blockchain Developer**
 
 * Engineered robust and efficient backend systems using Golang and Node.js.
