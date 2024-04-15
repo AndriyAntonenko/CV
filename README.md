@@ -67,6 +67,10 @@ Experienced Software Engineer specializing in blockchain and web3 development fo
 
 * Coursework included Data Structures and Algorithms, Operating Systems, Computer Networking, Database Management Systems, Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Mobile Application Development, Cybersecurity, Human-Computer Interaction, and User Experience Design.
 
+## Certifications
+
+* [Google Cloud Associate Cloud Engineer](https://google.accredible.com/e33bb39d-209c-4883-87a3-1303f522e0f5) (2023)
+
 ## Additional Qualifications
 * Strong written and verbal communication skills.
 * Proven ability to learn quickly and adapt to changing environments.
